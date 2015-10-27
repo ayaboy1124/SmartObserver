@@ -1,4 +1,6 @@
-package com.cx.lemon.listener;
+package com.cx.lemon.observer;
+
+import com.cx.lemon.listener.SmartListener;
 
 import java.util.HashSet;
 
